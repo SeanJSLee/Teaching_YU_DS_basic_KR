@@ -1,4 +1,4 @@
 data/KOSIS_houshold_panel_survey/2023_20240309_40664.csv
-*.dta 
+../*.dta
 data/KOSIS_houshold_panel_survey/통계별설명자료조회.pdf
-data/KOSIS_houshold_panel_survey/docs/[파일설계서(공공용)]_가계동향조사(2019년~)_분기자료(2019~) - 전체가구_1인이상(제공)_2023(코드집포함).xlsx
+data/KOSIS_houshold_panel_survey/docs/*
