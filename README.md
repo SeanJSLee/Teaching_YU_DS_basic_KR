@@ -55,6 +55,6 @@
     - [statsmodels](https://www.statsmodels.org/stable/api.html) - 
                회귀분석 라이브러리
  1. [기본통계](https://colab.research.google.com/github/SeanJSLee/Teaching_YU_DS_basic_KR/blob/main/Lecture_basic_stat.ipynb)
- <!-- 1. [데이터 불러오기](https://colab.research.google.com/github/SeanJSLee/Teaching_YU_DS_basic_KR/blob/main/Lecture_data_import_and_stats.ipynb)
- 1. OLS 회귀분석
- 1. OLS 회귀분석 연습 -->
+ 1. [데이터 불러오기](https://colab.research.google.com/github/SeanJSLee/Teaching_YU_DS_basic_KR/blob/main/Lecture_data_import.ipynb)
+ 1. [OLS 회귀분석](https://colab.research.google.com/github/SeanJSLee/Teaching_YU_DS_basic_KR/blob/main/Lecture_ols.ipynb)
+ <!-- 1. OLS 회귀분석 연습 -->
