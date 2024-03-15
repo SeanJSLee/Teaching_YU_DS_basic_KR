@@ -57,4 +57,6 @@
  1. [기본통계](https://colab.research.google.com/github/SeanJSLee/Teaching_YU_DS_basic_KR/blob/main/Lecture_basic_stat.ipynb)
  1. [데이터 불러오기](https://colab.research.google.com/github/SeanJSLee/Teaching_YU_DS_basic_KR/blob/main/Lecture_data_import.ipynb)
  1. [OLS 회귀분석](https://colab.research.google.com/github/SeanJSLee/Teaching_YU_DS_basic_KR/blob/main/Lecture_ols.ipynb)
+ 1. [OLS 회귀분석 heterogeneity](https://colab.research.google.com/github/SeanJSLee/Teaching_YU_DS_basic_KR/blob/main/Lecture_ols_heterogeneity.ipynb)
+ 1. [OLS 회귀분석 alternative specification](https://colab.research.google.com/github/SeanJSLee/Teaching_YU_DS_basic_KR/blob/main/Lecture_ols_alt_spec.ipynb)
  <!-- 1. OLS 회귀분석 연습 -->
