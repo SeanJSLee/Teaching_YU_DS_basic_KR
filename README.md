@@ -1,6 +1,6 @@
 # 경제금융 데이터 분석 소프트웨어 사용법 특강
 
-<p style="text-align: center;">Slow Track class 2024.3.11-15, 상경관 306호<br>이재석, University of Missouri, Columbia</p>
+<p style="text-align: center;"> 2024.3.18-20, 상경관 306호 (20일 255호)<br>이재석, University of Missouri, Columbia</p>
 
 **_경제학적 접근법의 실제적 문제해결_**  
 
@@ -60,3 +60,10 @@
  1. [OLS 회귀분석 heterogeneity](https://colab.research.google.com/github/SeanJSLee/Teaching_YU_DS_basic_KR/blob/main/Lecture_ols_heterogeneity.ipynb)
  1. [OLS 회귀분석 alternative specification](https://colab.research.google.com/github/SeanJSLee/Teaching_YU_DS_basic_KR/blob/main/Lecture_ols_alt_spec.ipynb)
  <!-- 1. OLS 회귀분석 연습 -->
+
+ ## 추천하는 유튭
+ - 파이썬 기초 - "생활코딩" [링크](https://www.youtube.com/watch?v=-3DHpwy498o&list=PLuHgQVnccGMDtnr4nTSFfmocHL5FeH1xR)
+ - 정규분포, 중심극한정리 - "3Blue1Brown 한국어" [링크](https://www.youtube.com/watch?v=SoKjCUcDBf0); 
+ - 수학을 시각화 시킨 3Blue1Brown [https://www.youtube.com/@3blue1brown](https://www.youtube.com/@3blue1brown)
+    -  선형대수학, 미적분학, 등
+ - 통계에 집중한 StatQuest [https://www.youtube.com/@statquest](https://www.youtube.com/@statquest)
