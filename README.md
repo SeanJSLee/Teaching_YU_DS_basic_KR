@@ -44,7 +44,7 @@
     - [Google Colab](https://colab.research.google.com/) - 
             [Jupyter 노트북 파이썬 개발환경](https://jupyter.org/)
             <!-- Colab -->
-            [![colab](https://i.ytimg.com/an_webp/inN8seMm7UI/mqdefault_6s.webp?du=3000&sqp=CID_ua8G&rs=AOn4CLCWeXC7JkOqIDUFy4lHACarGQUGcQ)](https://www.youtube.com/watch?v=inN8seMm7UI)
+            [![colab](https://raw.githubusercontent.com/SeanJSLee/Teaching_YU_DS_basic_KR/main/doc/img/colab_intro.webp)](https://www.youtube.com/watch?v=inN8seMm7UI)
 
     - [numpy](https://numpy.org/doc/stable/reference/index.html#reference) - 
                기본 함수
