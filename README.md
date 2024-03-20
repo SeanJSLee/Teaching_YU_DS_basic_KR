@@ -67,3 +67,4 @@
  - 수학을 시각화 시킨 3Blue1Brown [https://www.youtube.com/@3blue1brown](https://www.youtube.com/@3blue1brown)
     -  선형대수학, 미적분학, 등
  - 통계에 집중한 StatQuest [https://www.youtube.com/@statquest](https://www.youtube.com/@statquest)
+ - https://www.youtube.com/watch?v=Cj4y0EUlU-Y
