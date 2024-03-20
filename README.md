@@ -61,10 +61,12 @@
  1. [OLS 회귀분석 alternative specification](https://colab.research.google.com/github/SeanJSLee/Teaching_YU_DS_basic_KR/blob/main/Lecture_ols_alt_spec.ipynb)
  <!-- 1. OLS 회귀분석 연습 -->
 
+ - [KOSIS 가구동향패널(HPS) 데이터 정리 노트북](https://colab.research.google.com/github/SeanJSLee/Teaching_YU_DS_basic_KR/blob/main/data/KOSIS_houshold_panel_survey/KOSIS_houshold_panel_survey.ipynb)
+
  ## 추천하는 유튭
  - 파이썬 기초 - "생활코딩" [링크](https://www.youtube.com/watch?v=-3DHpwy498o&list=PLuHgQVnccGMDtnr4nTSFfmocHL5FeH1xR)
  - 정규분포, 중심극한정리 - "3Blue1Brown 한국어" [링크](https://www.youtube.com/watch?v=SoKjCUcDBf0); 
  - 수학을 시각화 시킨 3Blue1Brown [https://www.youtube.com/@3blue1brown](https://www.youtube.com/@3blue1brown)
     -  선형대수학, 미적분학, 등
  - 통계에 집중한 StatQuest [https://www.youtube.com/@statquest](https://www.youtube.com/@statquest)
- - https://www.youtube.com/watch?v=Cj4y0EUlU-Y
+ - [파인만의 응원](https://www.youtube.com/watch?v=Cj4y0EUlU-Y)
